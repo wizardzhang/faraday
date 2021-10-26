@@ -1,4 +1,4 @@
-package com.xyz.wizard.faraday.auth.config;
+package com.xyz.wizard.faraday.auth.security.config;
 
 import com.google.common.collect.Maps;
 import com.xyz.wizard.faraday.auth.domain.OauthUserDetails;
